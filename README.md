@@ -13,3 +13,6 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) sobre muertes ca
 
 ---
 
+##
+![Captura de pantalla 2025-03-26 231648](https://github.com/user-attachments/assets/2b2b10be-5d19-4a96-a782-704bf0687a2c)
+
