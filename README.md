@@ -13,6 +13,17 @@ Este proyecto presenta un análisis exploratorio de datos (EDA) sobre muertes ca
 
 ---
 
-##
 ![Captura de pantalla 2025-03-26 231648](https://github.com/user-attachments/assets/2b2b10be-5d19-4a96-a782-704bf0687a2c)
 
+## 📚 Fuente de Datos
+
+Los datos utilizados en este proyecto provienen de fuentes públicas del gobierno colombiano, específicamente del Observatorio Nacional de Seguridad Vial y otros repositorios abiertos.  
+Más información disponible en: [Ministerio de Transporte de Colombia](https://www.mintransporte.gov.co/)
+
+---
+
+## ✉️ Contacto
+
+**Desarrollado por:** Francisco Guzmán  
+📧 franciscoguzmanv11@email.com  
+🐙 [GitHub](https://github.com/Pacho73G)
