@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Se lee el archivo CSV desde la ruta local
-df = pd.read_csv("C:/Users/Francisco Guzman/Documents/MUERTES_ACCIDENTES_DE_TRANSITO_2012_-_2022_MARZO_20250326.csv")
+df = pd.read_csv("")#Aca poner la ruta del archivo csv 
 
 # Se Limpia los nombres de las columnas (sin espacios y en minúsculas)
 df.columns = df.columns.str.strip().str.lower()
